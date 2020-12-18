@@ -5,4 +5,8 @@ public class newclass {
 		System.out.println(0);
 		return 0;
 	}
+	public int demosome1() {
+		System.out.println(0);
+		return 0;
+	}
 }
